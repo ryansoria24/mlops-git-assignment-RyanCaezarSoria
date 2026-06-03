@@ -6,6 +6,12 @@
 
 
 
+Course: MAI201 MLOps 
+
+Date: 2026-06-02
+
+
+
 This repository is part of the MAI201 MLOps course. It demonstrates Git
 
 branching, merging, pull requests, and collaboration workflows.

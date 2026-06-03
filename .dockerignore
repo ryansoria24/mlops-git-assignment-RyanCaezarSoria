@@ -23,3 +23,14 @@ env/
 
 # Logs
 *.log
+
+
+# Build artifacts
+build/
+dist/
+*.egg
+
+# Docs and data
+*.md
+data/
+notebooks/

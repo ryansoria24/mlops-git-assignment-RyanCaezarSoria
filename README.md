@@ -6,6 +6,9 @@
 
 
 
+Student: Ryan Caezar Soria
+
+ID#:131930257
 Course: MAI201 MLOps 
 
 Date: 2026-06-02

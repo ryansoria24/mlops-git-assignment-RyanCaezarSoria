@@ -6,6 +6,12 @@
 
 
 
+Student: Ryan Caezar Soria
+
+ID#:131930257
+
+
+
 This repository is part of the MAI201 MLOps course. It demonstrates Git
 
 branching, merging, pull requests, and collaboration workflows.

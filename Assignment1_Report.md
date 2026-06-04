@@ -30,7 +30,8 @@ Branch protection was configured on the `main` branch with the following setting
 - Force pushes disabled
 - Branch deletion disabled
 
-![Branch Protection Rules](screenshots/branch-protection.png)
+<img width="1080" height="815" alt="image" src="https://github.com/user-attachments/assets/533de771-13b7-4b3f-90a0-fb0011af826b" />
+
 
 ---
 

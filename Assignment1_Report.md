@@ -1,4 +1,4 @@
-# Assignment 1 Report — Git Branching & Collaboration
+# Assignment 1 Report - Git Branching & Collaboration
 
 **Student:** Ryan Caezar Soria
 **Student ID:** 131930257

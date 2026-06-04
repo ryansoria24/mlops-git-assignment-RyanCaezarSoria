@@ -13,6 +13,9 @@ The network graph below shows all branches (`develop`, `feature/add-readme-detai
 `feature/add-dockerignore`, `feature/add-code-of-conduct`, `feature/update-readme`)
 and the merges back into `develop`, including the merge-conflict resolution.
 
+Please click link to view image
+
+<img width="1230" height="892" alt="image" src="https://github.com/user-attachments/assets/594fdae0-c7ee-42af-b64a-8aa2cf9d1f8c" />
 
 ---
 
@@ -67,7 +70,7 @@ Branch protection was configured on the `main` branch with the following setting
 
 ## 4. Reflection: Resolving Merge Conflicts
 
-The most challenging part of this assignment was understanding *why* a merge conflict
+The most challenging part of this assignment was understanding why a merge conflict
 happens in the first place. At first it was not obvious that a conflict only occurs when
 two branches change the same (or adjacent) lines of a file. When I edited the README on
 `feature/update-readme` (adding my name and student ID) and then edited the README again

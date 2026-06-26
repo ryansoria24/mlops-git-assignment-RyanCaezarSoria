@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Conda / venv
+.venv/
+env/
+
+# Great Expectations runtime artifacts (the suite + config ARE committed;
+# only transient run output is ignored). The generated HTML is copied to
+# ./data_docs which is committed.
+gx/uncommitted/
